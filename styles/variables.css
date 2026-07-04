@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quintessential&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap");
+
+:root {
+  --gold-gradient: linear-gradient(120deg, #1c262f, #7fa8ff, #3f5fa8, #bdd5fd);
+
+  --gradient-titulo: linear-gradient(90deg, #1b1f3a, #2f4074, #000000);
+  --rose: #0f132a; /* azul noche oscuro */
+  --rose-main: #2f3f75; /* azul real */
+  --rose-light: #e6ecff; /* azul muy claro casi blanco */
+
+  --gold-elegant: #9fbfff; /* azul plateado elegante */
+  --gray-pearl: #3a3a3f; /* gris oscuro elegante */
+  --ivory-paper: #f4f7ff; /* blanco con tono azulado */
+
+  --bg-section-light: #1f2840; /* azul casi negro */
+  --bg-section-dark: #000000; /* negro profundo */
+
+  --bg-gradient: linear-gradient(
+    131deg,
+    #0d1b2a -3.63%,
+    #1b263b 60.5%,
+    #000000 100.94%
+  );
+
+  --font-titulos: "Playfair Display", serif;
+  --font-subtitulos: "Great Vibes", cursive;
+  --font-texto: "PT Serif", serif;
+}
