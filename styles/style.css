@@ -444,12 +444,13 @@
   margin: 0;
 }
 
-.frase-l p {
-  font-family: var(--font-titulos);
-  text-transform: uppercase;
+.frase-l h2 {
+  font-family: var(--font-subtitulos);
+  font-size: 2.5rem;
   text-align: center;
-  font-size: 0.9rem;
+  margin: 0;
   font-weight: 400;
+  margin-bottom: 1rem;
 }
 
 .nombre h2 {
